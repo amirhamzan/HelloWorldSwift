@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, amir did thi hhehes!")
+            Text("Hello, amir did this!")
 //                Link("Go To Apple", URL(string: "https://apple.com")!)
                 .padding()
         }
